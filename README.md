@@ -10,4 +10,4 @@
 [<img align="left" alt="VeraQueen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://instagram.com/vera_javor/)
 </br>
 ### Languages and tools:
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,github,git,figma)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,github,git,figma,angular,typescript,bootstrap)](https://skills.thijs.gg)

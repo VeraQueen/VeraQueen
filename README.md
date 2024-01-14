@@ -1,10 +1,10 @@
 ### Hey there, I'm Veronika 👋
 
 ## I'm a junior frontend developer!
-- 👷‍♀️ I’m currently working on finishing Task Master application (to do application).
-- ✅ Udemy certifications: HTML/CSS, Git&GitHub, Javascript. 
-- 📚 I’m currently learning Angular.
-- Check out my personal website [portfolio](https://veronikajavor.dev)!
+- 👷‍♀️ I’m currently working on a new project called Note Taker. An app for fellow learners like myself.
+- ✅ Udemy certifications: HTML/CSS, Git&GitHub, Javascript, Angular.
+  
+- Check out my personal website [portfolio](https://veronikajavor.dev) and my projects!
   
 ### Connect with me:
 [<img align="left" alt="VeraQueen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://linkedin.com/in/veronika-javor/)
